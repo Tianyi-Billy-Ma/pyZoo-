@@ -166,6 +166,7 @@ class Zoo:
                 self.animals.append(rhino(name))
         self.billy = Zookeeper(zookeeper_name)
     def start_operate(self):
+        #register the event that want to observe
         self.billy.register("wake the animal",self.billy.wakeTheAnimal)
         self.billy.register("call the animal",self.billy.callAnimal)
         self.billy.register("feed the animal",self.billy.feedAnimal)
@@ -178,6 +179,7 @@ class Zoo:
         print("\n")
         print("Responsibilities 1: wake the animals")
         for idx,animal in enumerate(self.animals):
+            #Observe event
             Event(self.billy.get_observers(),"wake the animal",animal)
             print("{} is a {}".format(animal.getName(),animal.getType()))
             print("{}'s species is {}".format(animal.getName(),animal.getspecies()))
