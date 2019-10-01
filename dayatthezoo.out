@@ -1,0 +1,384 @@
+Hi, this is Billy. I am the Zookeeper
+------------------------------------------
+
+
+Responsibilities 1: wake the animals
+Hi, this is the Zoo Announcer. The Zookeeper is about to wake the animal!
+Billy wake up Lily
+Lily is a lion
+Lily's species is Feline
+Lily's response: This animal is wake up'
+Hi, this is the Zoo Announcer. The Zookeeper is about to wake the animal!
+Billy wake up Liam
+Liam is a lion
+Liam's species is Feline
+Liam's response: This animal is wake up'
+Hi, this is the Zoo Announcer. The Zookeeper is about to wake the animal!
+Billy wake up Harry
+Harry is a hippo
+Harry's species is Pachyderm
+Harry's response: This animal is wake up'
+Hi, this is the Zoo Announcer. The Zookeeper is about to wake the animal!
+Billy wake up Hulk
+Hulk is a hippo
+Hulk's species is Pachyderm
+Hulk's response: This animal is wake up'
+Hi, this is the Zoo Announcer. The Zookeeper is about to wake the animal!
+Billy wake up David
+David is a dog
+David's species is Canine
+David's response: This animal is wake up'
+Hi, this is the Zoo Announcer. The Zookeeper is about to wake the animal!
+Billy wake up Dylan
+Dylan is a dog
+Dylan's species is Canine
+Dylan's response: This animal is wake up'
+Hi, this is the Zoo Announcer. The Zookeeper is about to wake the animal!
+Billy wake up Cathey
+Cathey is a Cat
+Cathey's species is Feline
+Cathey's response: This cat doesn't want to wake up'
+Hi, this is the Zoo Announcer. The Zookeeper is about to wake the animal!
+Billy wake up Clark
+Clark is a Cat
+Clark's species is Feline
+Clark's response: Mewwwwww'
+Hi, this is the Zoo Announcer. The Zookeeper is about to wake the animal!
+Billy wake up Emily
+Emily is a elephant
+Emily's species is Pachyderm
+Emily's response: This animal is wake up'
+Hi, this is the Zoo Announcer. The Zookeeper is about to wake the animal!
+Billy wake up Eason
+Eason is a elephant
+Eason's species is Pachyderm
+Eason's response: This animal is wake up'
+Hi, this is the Zoo Announcer. The Zookeeper is about to wake the animal!
+Billy wake up Tom
+Tom is a tiger
+Tom's species is Feline
+Tom's response: This animal is wake up'
+Hi, this is the Zoo Announcer. The Zookeeper is about to wake the animal!
+Billy wake up Tiana
+Tiana is a tiger
+Tiana's species is Feline
+Tiana's response: This animal is wake up'
+Hi, this is the Zoo Announcer. The Zookeeper is about to wake the animal!
+Billy wake up Roy
+Roy is a rhino
+Roy's species is Pachyderm
+Roy's response: This animal is wake up'
+Hi, this is the Zoo Announcer. The Zookeeper is about to wake the animal!
+Billy wake up Richard
+Richard is a rhino
+Richard's species is Pachyderm
+Richard's response: This animal is wake up'
+
+
+------------------------------------------
+
+
+Responsibilities 2: roll call the animals
+Hi, this is the Zoo Announcer. The Zookeeper is about to call the animal!
+Billy roll call Lily
+Lily is a lion
+Lily's species is Feline
+Lily's response: The lion makes noise'
+Hi, this is the Zoo Announcer. The Zookeeper is about to call the animal!
+Billy roll call Liam
+Liam is a lion
+Liam's species is Feline
+Liam's response: The lion makes noise'
+Hi, this is the Zoo Announcer. The Zookeeper is about to call the animal!
+Billy roll call Harry
+Harry is a hippo
+Harry's species is Pachyderm
+Harry's response: The hippo makes noise'
+Hi, this is the Zoo Announcer. The Zookeeper is about to call the animal!
+Billy roll call Hulk
+Hulk is a hippo
+Hulk's species is Pachyderm
+Hulk's response: The hippo makes noise'
+Hi, this is the Zoo Announcer. The Zookeeper is about to call the animal!
+Billy roll call David
+David is a dog
+David's species is Canine
+David's response: The dog makes noise'
+Hi, this is the Zoo Announcer. The Zookeeper is about to call the animal!
+Billy roll call Dylan
+Dylan is a dog
+Dylan's species is Canine
+Dylan's response: The dog makes noise'
+Hi, this is the Zoo Announcer. The Zookeeper is about to call the animal!
+Billy roll call Cathey
+Cathey is a Cat
+Cathey's species is Feline
+Cathey's response: The Cat makes noise'
+Hi, this is the Zoo Announcer. The Zookeeper is about to call the animal!
+Billy roll call Clark
+Clark is a Cat
+Clark's species is Feline
+Clark's response: The Cat makes noise'
+Hi, this is the Zoo Announcer. The Zookeeper is about to call the animal!
+Billy roll call Emily
+Emily is a elephant
+Emily's species is Pachyderm
+Emily's response: The elephant makes noise'
+Hi, this is the Zoo Announcer. The Zookeeper is about to call the animal!
+Billy roll call Eason
+Eason is a elephant
+Eason's species is Pachyderm
+Eason's response: The elephant makes noise'
+Hi, this is the Zoo Announcer. The Zookeeper is about to call the animal!
+Billy roll call Tom
+Tom is a tiger
+Tom's species is Feline
+Tom's response: The tiger makes noise'
+Hi, this is the Zoo Announcer. The Zookeeper is about to call the animal!
+Billy roll call Tiana
+Tiana is a tiger
+Tiana's species is Feline
+Tiana's response: The tiger makes noise'
+Hi, this is the Zoo Announcer. The Zookeeper is about to call the animal!
+Billy roll call Roy
+Roy is a rhino
+Roy's species is Pachyderm
+Roy's response: The rhino makes noise'
+Hi, this is the Zoo Announcer. The Zookeeper is about to call the animal!
+Billy roll call Richard
+Richard is a rhino
+Richard's species is Pachyderm
+Richard's response: The rhino makes noise'
+
+
+------------------------------------------
+
+
+Responsibilities 3: feed the animals
+Hi, this is the Zoo Announcer. The Zookeeper is about to feed the animal!
+Billy feed Lily
+Lily is a lion
+Lily's species is Feline
+Lily's response: This animal is eating'
+Hi, this is the Zoo Announcer. The Zookeeper is about to feed the animal!
+Billy feed Liam
+Liam is a lion
+Liam's species is Feline
+Liam's response: This animal is eating'
+Hi, this is the Zoo Announcer. The Zookeeper is about to feed the animal!
+Billy feed Harry
+Harry is a hippo
+Harry's species is Pachyderm
+Harry's response: This animal is eating'
+Hi, this is the Zoo Announcer. The Zookeeper is about to feed the animal!
+Billy feed Hulk
+Hulk is a hippo
+Hulk's species is Pachyderm
+Hulk's response: This animal is eating'
+Hi, this is the Zoo Announcer. The Zookeeper is about to feed the animal!
+Billy feed David
+David is a dog
+David's species is Canine
+David's response: This animal is eating'
+Hi, this is the Zoo Announcer. The Zookeeper is about to feed the animal!
+Billy feed Dylan
+Dylan is a dog
+Dylan's species is Canine
+Dylan's response: This animal is eating'
+Hi, this is the Zoo Announcer. The Zookeeper is about to feed the animal!
+Billy feed Cathey
+Cathey is a Cat
+Cathey's species is Feline
+Cathey's response: This animal is eating'
+Hi, this is the Zoo Announcer. The Zookeeper is about to feed the animal!
+Billy feed Clark
+Clark is a Cat
+Clark's species is Feline
+Clark's response: This animal is eating'
+Hi, this is the Zoo Announcer. The Zookeeper is about to feed the animal!
+Billy feed Emily
+Emily is a elephant
+Emily's species is Pachyderm
+Emily's response: This animal is eating'
+Hi, this is the Zoo Announcer. The Zookeeper is about to feed the animal!
+Billy feed Eason
+Eason is a elephant
+Eason's species is Pachyderm
+Eason's response: This animal is eating'
+Hi, this is the Zoo Announcer. The Zookeeper is about to feed the animal!
+Billy feed Tom
+Tom is a tiger
+Tom's species is Feline
+Tom's response: This animal is eating'
+Hi, this is the Zoo Announcer. The Zookeeper is about to feed the animal!
+Billy feed Tiana
+Tiana is a tiger
+Tiana's species is Feline
+Tiana's response: This animal is eating'
+Hi, this is the Zoo Announcer. The Zookeeper is about to feed the animal!
+Billy feed Roy
+Roy is a rhino
+Roy's species is Pachyderm
+Roy's response: This animal is eating'
+Hi, this is the Zoo Announcer. The Zookeeper is about to feed the animal!
+Billy feed Richard
+Richard is a rhino
+Richard's species is Pachyderm
+Richard's response: This animal is eating'
+
+
+------------------------------------------
+
+
+Responsibilities 4: exercise the animals
+Hi, this is the Zoo Announcer. The Zookeeper is about to exercise the animal!
+Billy train Lily
+Lily is a lion
+Lily's species is Feline
+Lily's response: This lion is roaming'
+Hi, this is the Zoo Announcer. The Zookeeper is about to exercise the animal!
+Billy train Liam
+Liam is a lion
+Liam's species is Feline
+Liam's response: This lion is roaming'
+Hi, this is the Zoo Announcer. The Zookeeper is about to exercise the animal!
+Billy train Harry
+Harry is a hippo
+Harry's species is Pachyderm
+Harry's response: This hippo is roaming'
+Hi, this is the Zoo Announcer. The Zookeeper is about to exercise the animal!
+Billy train Hulk
+Hulk is a hippo
+Hulk's species is Pachyderm
+Hulk's response: This hippo is roaming'
+Hi, this is the Zoo Announcer. The Zookeeper is about to exercise the animal!
+Billy train David
+David is a dog
+David's species is Canine
+David's response: This dog is roaming'
+Hi, this is the Zoo Announcer. The Zookeeper is about to exercise the animal!
+Billy train Dylan
+Dylan is a dog
+Dylan's species is Canine
+Dylan's response: This dog is roaming'
+Hi, this is the Zoo Announcer. The Zookeeper is about to exercise the animal!
+Billy train Cathey
+Cathey is a Cat
+Cathey's species is Feline
+Cathey's response: This Cat is roaming'
+Hi, this is the Zoo Announcer. The Zookeeper is about to exercise the animal!
+Billy train Clark
+Clark is a Cat
+Clark's species is Feline
+Clark's response: This Cat is roaming'
+Hi, this is the Zoo Announcer. The Zookeeper is about to exercise the animal!
+Billy train Emily
+Emily is a elephant
+Emily's species is Pachyderm
+Emily's response: This elephant is roaming'
+Hi, this is the Zoo Announcer. The Zookeeper is about to exercise the animal!
+Billy train Eason
+Eason is a elephant
+Eason's species is Pachyderm
+Eason's response: This elephant is roaming'
+Hi, this is the Zoo Announcer. The Zookeeper is about to exercise the animal!
+Billy train Tom
+Tom is a tiger
+Tom's species is Feline
+Tom's response: This tiger is roaming'
+Hi, this is the Zoo Announcer. The Zookeeper is about to exercise the animal!
+Billy train Tiana
+Tiana is a tiger
+Tiana's species is Feline
+Tiana's response: This tiger is roaming'
+Hi, this is the Zoo Announcer. The Zookeeper is about to exercise the animal!
+Billy train Roy
+Roy is a rhino
+Roy's species is Pachyderm
+Roy's response: This rhino is roaming'
+Hi, this is the Zoo Announcer. The Zookeeper is about to exercise the animal!
+Billy train Richard
+Richard is a rhino
+Richard's species is Pachyderm
+Richard's response: This rhino is roaming'
+
+
+------------------------------------------
+
+
+Responsibilities 5: shut down the Zoo
+Hi, this is the Zoo Announcer. The Zookeeper is about to close the Zoo!
+Billy let Lily go to sleep
+Lily is a lion
+Lily's species is Feline
+Lily's response: This Feline is sleeping'
+Hi, this is the Zoo Announcer. The Zookeeper is about to close the Zoo!
+Billy let Liam go to sleep
+Liam is a lion
+Liam's species is Feline
+Liam's response: This Feline is sleeping'
+Hi, this is the Zoo Announcer. The Zookeeper is about to close the Zoo!
+Billy let Harry go to sleep
+Harry is a hippo
+Harry's species is Pachyderm
+Harry's response: This Pachyderm is sleeping'
+Hi, this is the Zoo Announcer. The Zookeeper is about to close the Zoo!
+Billy let Hulk go to sleep
+Hulk is a hippo
+Hulk's species is Pachyderm
+Hulk's response: This Pachyderm is sleeping'
+Hi, this is the Zoo Announcer. The Zookeeper is about to close the Zoo!
+Billy let David go to sleep
+David is a dog
+David's species is Canine
+David's response: This Canine is sleeping'
+Hi, this is the Zoo Announcer. The Zookeeper is about to close the Zoo!
+Billy let Dylan go to sleep
+Dylan is a dog
+Dylan's species is Canine
+Dylan's response: This Canine is sleeping'
+Hi, this is the Zoo Announcer. The Zookeeper is about to close the Zoo!
+Billy let Cathey go to sleep
+Cathey is a Cat
+Cathey's species is Feline
+Cathey's response: This Cat sleeps'
+Hi, this is the Zoo Announcer. The Zookeeper is about to close the Zoo!
+Billy let Clark go to sleep
+Clark is a Cat
+Clark's species is Feline
+Clark's response: This Cat sleeps'
+Hi, this is the Zoo Announcer. The Zookeeper is about to close the Zoo!
+Billy let Emily go to sleep
+Emily is a elephant
+Emily's species is Pachyderm
+Emily's response: This Pachyderm is sleeping'
+Hi, this is the Zoo Announcer. The Zookeeper is about to close the Zoo!
+Billy let Eason go to sleep
+Eason is a elephant
+Eason's species is Pachyderm
+Eason's response: This Pachyderm is sleeping'
+Hi, this is the Zoo Announcer. The Zookeeper is about to close the Zoo!
+Billy let Tom go to sleep
+Tom is a tiger
+Tom's species is Feline
+Tom's response: This Feline is sleeping'
+Hi, this is the Zoo Announcer. The Zookeeper is about to close the Zoo!
+Billy let Tiana go to sleep
+Tiana is a tiger
+Tiana's species is Feline
+Tiana's response: This Feline is sleeping'
+Hi, this is the Zoo Announcer. The Zookeeper is about to close the Zoo!
+Billy let Roy go to sleep
+Roy is a rhino
+Roy's species is Pachyderm
+Roy's response: This Pachyderm is sleeping'
+Hi, this is the Zoo Announcer. The Zookeeper is about to close the Zoo!
+Billy let Richard go to sleep
+Richard is a rhino
+Richard's species is Pachyderm
+Richard's response: This Pachyderm is sleeping'
+
+
+------------------------------------------
+
+
